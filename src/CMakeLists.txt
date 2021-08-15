@@ -1,0 +1,2 @@
+add_subdirectory(prime_numbers)
+add_subdirectory(memory_ordering)
